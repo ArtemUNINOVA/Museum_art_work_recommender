@@ -10,6 +10,7 @@ Alexanne Worm, Florian Marchal, and Sylvain Castagnos. 2025. BIRD: A Museum Open
 Better Model Visitors’ Experience. In Adjunct Proceedings of the 33rd ACM Conference on User Modeling, Adaptation and Personalization (UMAP 
 Adjunct ’25), June 16–19, 2025, New York City, NY, USA. ACM, New York, NY, USA, 5 pages. https://doi.org/10.1145/3708319.3733686
 
+
 ## Repository Overview
 **dataset/Nancy_museum**
 - Contains files from the BIRD dataset, including:
@@ -55,6 +56,7 @@ feature-permutation analysis.
 - Uses the generated result files.
 - Computes evaluation metrics and generates box plots.
 
+
 ## Acknowledgment
 
 This work was supported by the FITTER-EU project (Grant Agreement No. 101132546) and by the Portuguese Foundation for Science and Technology 
@@ -62,6 +64,15 @@ This work was supported by the FITTER-EU project (Grant Agreement No. 101132546)
 
 The views and opinions expressed are solely those of the authors and do not necessarily reflect those of the European Union or the European 
 Research Executive Agency (REA). Neither the European Union nor the granting authority can be held responsible for them.
+
+
+## Citation
+
+If you find this repository useful in your research, please cite:
+
+Shabnam Pasandideh, Artem A. Nazarenko, Joao Sarraipa, Sofia Almeida. Digital Transformation in Museums under the Framework of Cyber-Physical-Social Systems.
+
+
 
 ## License
 
